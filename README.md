@@ -4,6 +4,8 @@
 
 ChromBoundary encodes paired light and heavy transitions, pools their features across transitions, and estimates peak occupancy and both endpoints along the retention-time axis. A learned correction refines the boundaries of each ranked interval.
 
+![ChromBoundary in action: from paired chromatograms to a refined integration window](assets/ChromBoundary_README.gif)
+
 ![Figure 1. From paired peptide and metabolite chromatograms to ranked integration intervals](assets/figure1.png)
 
 ## Quick start
